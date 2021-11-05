@@ -20,4 +20,4 @@ Site utilizado pra extração de cores: https://color.adobe.com/pt/create/image
 
 Fonte escolhida em: https://www.dafont.com/pt/space-3.font 
 
-(infelizmente não pude inserir a fonte pois uso a versão online do word, o que não permite que fontes instaladas no computador sejam utilizadas) 
+(infelizmente não pude inserir a fonte pois uso a versão online do word, o que não permite que fontes instaladas no computador sejam utilizadas)
